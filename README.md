@@ -24,7 +24,7 @@ Ini adalah proyek "Starter Kit" aplikasi berita yang dikembangkan menggunakan La
 
 1.  Clone repositori ini:
     ```bash
-    git clone [https://github.com/YourGitHubUsername/your-repository-name.git](https://github.com/dikysetiawan21/Laravel-News-App-UAS.git)
+    git clone [https://github.com/YourGitHubUsername/your-repository-name.git](https://github.com/Ronal62/PWL_UAS.git)
     cd Laravel-News-App-UAS
     ```
 2.  Instal dependensi Composer:
@@ -59,23 +59,26 @@ Ini adalah proyek "Starter Kit" aplikasi berita yang dikembangkan menggunakan La
 Berikut adalah tangkapan layar dari beberapa fitur utama aplikasi:
 
 ### Halaman Login
-![Halaman Login](screenshots/login_page.png)
+![Halaman Login](screenshots/login.png)
 
-### Dashboard Admin
-![Dashboard Admin](screenshots/admin_dashboard.png)
+### Manajemen Kategory
+![Kategory Berita](screenshots/manajemen_kategory_berita.png)
 
 ### Manajemen Berita
-![Manajemen Berita](screenshots/news_management.png)
+![Manajemen Berita](screenshots/manajemen_berita.png)
 
 ### Halaman Berita Publik
-![Halaman Berita Publik](screenshots/public_news.png)
+![Halaman Berita Publik](screenshots/berita_public.png)
 
 ### Manajemen User (Admin)
-![Manajemen User](screenshots/user_management.png)
+![Manajemen User](screenshots/manajemen_user.png)
+
+### Approval Berita (Admin)
+![Approval Berita](screenshots/approval_berita.png)
 
 ### Dan Lain Sebagainya
 ![Lain Sebagainya](screenshots/other.png)
 
 ---
 Dibuat oleh: 
-[Nama: Ronald Budi Abdul Wahid, NIM: 23091397142, Kelas: 2023E](https://github.com/Ronal62/PWL_UAS.gitxam)
+[Nama: Ronald Budi Abdul Wahid, NIM: 23091397142, Kelas: 2023E](https://github.com/Ronal62/PWL_UAS.git)
